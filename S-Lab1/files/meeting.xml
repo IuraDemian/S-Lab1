@@ -1,0 +1,9 @@
+<Meeting>
+    <Date>2024-10-08</Date>
+    <Description>Team Sync-up</Description>
+    <URL>https://example.com/meeting</URL>
+    <ParticipantFiles>
+        <ParticipantFile>user1.json</ParticipantFile>
+        <ParticipantFile>user2.json</ParticipantFile>
+    </ParticipantFiles>
+</Meeting>

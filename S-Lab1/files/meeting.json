@@ -1,0 +1,9 @@
+{
+    "Date": "2024-10-08",
+    "Description": "Team Sync-up",
+    "URL": "https://example.com/meeting",
+    "ParticipantFiles": [
+        "user1.json",
+        "user2.json"
+    ]
+}
